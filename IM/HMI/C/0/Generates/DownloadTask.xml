@@ -2,11 +2,11 @@
 <DownloadTask>
   <ProjectInfo
     DeviceVersion="15.1.0.0"
-    CreationTime="2026-02-05 10:20:20 (UTC)"
+    CreationTime="2026-02-18 16:44:18 (UTC)"
     Runtime="COLORADO"
-    RtProjectName="TIA_Proiect_Sortare_Cutii.HMI_1[TP700 Comfort]"
-    RtProjectFolderName="TIA_Proiect_Sortare_Cutii.HMI_1[TP700 Comfort]"
-    DeviceType="TP700 Comfort"
+    RtProjectName="TIA_Proiect_Sortare_Cutii.HMI_1[TP900 Comfort]"
+    RtProjectFolderName="TIA_Proiect_Sortare_Cutii.HMI_1[TP900 Comfort]"
+    DeviceType="TP900 Comfort"
     DisplayOrientation="0"
     RTReleaseNo="15.1.0.0"
     ImageReleaseNo="15.1.0.0"
